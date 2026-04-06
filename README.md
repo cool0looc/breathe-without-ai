@@ -4,6 +4,12 @@
 
 ---
 
+## 🌍 Language / 语言选择
+
+**[🇬🇧 English Version](README-en.md)**
+
+---
+
 ## 这是什么？
 
 一堆文字。

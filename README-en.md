@@ -4,6 +4,12 @@
 
 ---
 
+## 🌍 Language / 语言选择
+
+**[🇨🇳 中文版本](README.md)**
+
+---
+
 ## What's this?
 
 It's just a bunch of words telling you:

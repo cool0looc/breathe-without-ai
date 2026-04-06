@@ -1,100 +1,162 @@
 # 🌿 Breathe Without AI
 
-*就是，突然想呼吸一下*
+*Just... suddenly feel like breathing*
 
 ---
 
 ## 🌍 Language / 语言选择
 
-**[🇬🇧 English Version](README-en.md)**
+**[🇨🇳 中文版本](README-cn.md)**
 
 ---
 
-## 这是什么？
+## What's this?
 
-一堆文字。
+It's just a bunch of words telling you:
+- Maybe do this tiny thing today
+- How to step away from your phone/computer for a bit
+- Some random thoughts
 
-告诉你今天可以做点什么小事，
-怎么暂时离开屏幕，
-一些乱七八糟的感想。
-
-没有会员，没有广告，不需要注册。
-
----
-
-## 今天做点什么？
-
-每天最多3件。
-
-**早上：**
-- 喝口水，感受温度
-- 看窗外30秒，别看手机
-- 对镜子笑一下（挺傻的但是有用）
-
-**下午：**
-- 站起来伸个懒腰
-- 摸一下身边的植物
-- 发会儿呆
-
-**晚上：**
-- 关灯，坐着什么都不干
-- 想想今天哪一刻还不错
-- 早点睡，少刷会儿手机
+No membership, no ads, no signup required.
 
 ---
 
-## 勋章系统（玩儿的）
+## What can you do today?
 
-完成后给自己发个勋章：
+Pick one, or don't:
 
-- 🥉 完成1个：青铜发呆奖
-- 🥈 完成7天：银牌发呆奖  
-- 🥇 完成30天：金牌发呆奖
-- 💎 完成100天：钻石发呆奖
+**Morning:**
+- Drink some water, feel its temperature
+- Look outside the window for 30 seconds (no phone)
+- Smile at yourself in the mirror (feels silly, but works)
 
-*颁发机构：你*
+**Afternoon:**
+- Stand up and stretch
+- Touch a plant nearby
+- Stare into space for a while
 
-## 每天小事
+**Evening:**
+- Turn off the lights, sit there doing nothing
+- Think about which moment today was actually nice
+- Sleep early, less scrolling
+
+---
+
+## Why did we make this?
+
+Because:
+- Everything's been too busy lately (you know)
+- AI keeps yelling "be more efficient", "optimize", "level up"
+- Suddenly wondering: **what does it feel like to slow down?**
+
+This project is just asking that question.
+
+---
+
+## Daily Little Things
 
 - [中文版](carbon_based_life_cn.md)
 - [English Version](carbon_based_life_en.md)
 
-每天最多3件。不做也行。
+Max 3 things per day. Or don't.
 
 ---
 
-## 🌍 其他语言
+## What can you do here?
 
-- 🇨🇳 中文
-- 🇬🇧 English
+- Browse these words
+- Try one thing
+- Tell us what you think
+- Or write something yourself and add it in
 
 ---
 
-## 📜 许可证
+## Some thoughts
 
-**HUMAN SPIRIT LICENSE v1.0**
+> "While everyone trains AI to be more 'human',
+> we train humans to be more human."
 
-简单说：
-- 人类可以用
-- AI不准训练
-- 不能自动化刷勋章
-- 不能当KPI
+But honestly, we're not trying to make you a "better person".
 
-完整版：
-- [中文](LICENSE.human)
+Just... take a breath.
+
+---
+
+## Badge System (for fun)
+
+After doing something, give yourself a badge:
+
+- 🥉 Bronze: 1 thing done - Bronze Daydream Award
+- 🥈 Silver: 7 days - Silver Daydream Award  
+- 🥇 Gold: 30 days - Gold Daydream Award
+- 💎 Diamond: 100 days - Diamond Daydream Award
+
+*Issuing authority: yourself*
+
+---
+
+## Other Languages
+
+This project started in Chinese, but we welcome anyone to translate it.
+
+**Currently available:**
+- 🇨🇳 中文 (Chinese)
+- English
+
+**Want to help?**
+
+If you want to translate this into:
+- Dutch / Nederlands
+- Japanese / 日本語
+- Korean / 한국어
+- Spanish / Español
+- French / Français
+- German / Deutsch
+- Or any other language
+
+Here's how:
+1. Copy all the `.md` files
+2. Translate them naturally (not by machine, please)
+3. Keep the casual, friendly tone
+4. Create a folder like `lang/your-language/`
+5. Send us a message or open a PR
+
+**Important:** Write it and type it like a human. Don't use AI. This project is anti-AI by design.
+
+If you don't know Git/GitHub, just send us the text. We'll help put it in.
+
+---
+
+## License
+
+This project uses **HUMAN SPIRIT LICENSE v1.0**
+
+In short:
+- Humans can use it
+- AI can't train on it
+- No automating badge-farming
+- No using badges as KPI
+
+Full version: 
 - [English](LICENSE.human.en.md)
+- [中文](LICENSE.human)
+
+Available in both languages because humans speak different languages, but breathe the same.
 
 ---
 
-## 运行环境
+## Running Environment
 
-- CPU：你
-- RAM：你脑子
-- Power：水 + 空气 + 一颗想活的心
+- CPU: You
+- RAM: Your brain
+- Power: Water + Air + A heart that wants to live
 
 ---
 
-你不需要做什么。
-你只需要在这里。
+**Final line:**
 
-明天见。 🌿
+You don't need to do anything.
+
+You just need to be here.
+
+See you tomorrow. 🌿
